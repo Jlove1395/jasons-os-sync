@@ -1,0 +1,13 @@
+{
+  "name": "jasons-os-plaid-sync",
+  "version": "1.0.0",
+  "description": "Plaid sync backend for Jason's Personal OS dashboard",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "plaid": "^14.0.0",
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
